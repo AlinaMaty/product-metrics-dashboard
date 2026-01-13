@@ -1,0 +1,11 @@
+order_id,product_id,category,quantity,price
+1,101,Electronics,1,100
+2,102,Books,2,100
+3,103,Electronics,1,150
+4,104,Furniture,1,300
+5,105,Books,1,250
+6,106,Clothing,2,50
+7,107,Electronics,1,400
+8,108,Furniture,1,350
+9,109,Clothing,2,100
+10,110,Books,1,150
